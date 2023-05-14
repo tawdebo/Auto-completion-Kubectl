@@ -36,9 +36,9 @@ sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 ```
 6. Type kubectl . You should now see the tool is installed.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://spacelift.io/_next/image?url=https%3A%2F%2Fspaceliftio.wpcomstaging.com%2Fwp-content%2Fuploads%2F2022%2F08%2Fkubectl-autocompletion-installation.png))
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([[https://myoctocat.com/assets/images/base-octocat.svg](https://spacelift.io/_next/image?url=https%3A%2F%2Fspaceliftio.wpcomstaging.com%2Fwp-content%2Fuploads%2F2022%2F08%2Fkubectl-autocompletion-installation.png](https://spacelift.io/_next/image?url=https%3A%2F%2Fspaceliftio.wpcomstaging.com%2Fwp-content%2Fuploads%2F2022%2F08%2Fkubectl-autocompletion-installation.png&w=1920&q=75)))
 
-!(https://spacelift.io/_next/image?url=https%3A%2F%2Fspaceliftio.wpcomstaging.com%2Fwp-content%2Fuploads%2F2022%2F08%2Fkubectl-autocompletion-installation.png)
+
 
 # Set up Auto-completion
 
