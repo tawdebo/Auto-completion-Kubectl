@@ -96,6 +96,17 @@ sudo service ssh restart && exit
 
 you can login again and enjoy deploying your k8s fast
 
+# troubleshooting 
+
+if you get any issue with completion 
+
+you may need to restore ~/.bashrc by following the commands below 
+
+```
+/bin/cp /etc/skel/.bashrc ~/
+&&
+source ~/.bashrc
+```
 Summary
 Enabling auto-completion for kubectl and setting an alias will save you time!
 
